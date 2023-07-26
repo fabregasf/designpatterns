@@ -1,0 +1,12 @@
+com\arquiteto\OperacoesFactory$1.class
+com\arquiteto\shared\OperacoesShared.class
+com\arquiteto\define\ArmaTipo.class
+com\arquiteto\levels\RecrutaTipo.class
+com\arquiteto\levels\SubtenenteTipo.class
+com\arquiteto\entities\Atirador.class
+com\arquiteto\flyweight\Flyweight.class
+com\arquiteto\levels\SoldadoTipo.class
+com\arquiteto\OperacoesFactory.class
+com\arquiteto\Criador.class
+com\arquiteto\levels\CoronelTipo.class
+com\arquiteto\levels\SargentoTipo.class
